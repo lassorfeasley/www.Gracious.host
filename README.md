@@ -1,13 +1,13 @@
 # Gracious
 
-A warm, private way for second-home owners to have friends and family to stay. Lives at [gracious.host](https://gracious.host).
+![Gracious landing page](docs/screenshot.png)
 
-## Stack
+A hosting calendar that lets friends and family book a room in your home like a hotel.
 
-- **Next.js 14** (App Router) + TypeScript + Tailwind + shadcn/ui
-- **Supabase** — Auth, Postgres, Storage
-- **Resend** + React Email — transactional emails
-- **ics** — calendar export
+**Live:** [gracious.host](https://gracious.host)  
+**Stack:** Next.js 16 (App Router), TypeScript, Tailwind, shadcn/ui, Supabase, Stripe, Resend + React Email
+
+---
 
 ## Setup
 
